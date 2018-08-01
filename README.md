@@ -42,3 +42,6 @@ the network does a really good job, for
 the most part. Right! It's time for you to get
 started on your project.
 Good luck!
+
+# Model Accuracy
+My model has reached 86% of accuracy. Good luck in your try!
