@@ -30,7 +30,6 @@ this in a future lesson. So feel free to
 read it over but you'll just need to run
 through the code.
 This is where you'll build your network.
-00:00:48,539 --> 00:00:50,700
 We provided some of the code for the
 network but you'll be implementing most
 of it. And down here is where you'll
