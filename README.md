@@ -1,7 +1,7 @@
 # Predicting-Bike-Sharing-Data
 This is my implementation of the Predicting Bike Sharing Data Project<br/>
 From Udacity Deep Learning Foundation Nanodegree Program<br/>
-First Project of the Course<br/>
+**1#** Project of the Course<br/>
 **Deep Learning Project**
 
 ![jpg](imgs/img1.jpg)
